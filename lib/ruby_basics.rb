@@ -4,7 +4,7 @@ end
 
 
 def assign_variable(value)
-  value = 'hu'
+  value = 'Bob'
   
 end
 
